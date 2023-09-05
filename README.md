@@ -1,8 +1,8 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-[Webpage URL](https://katherinerstancil.github.io/stancil-portfolio/)
-[Repository URL](https://github.com/katherinerstancil/stancil-portfolio)
+-[Webpage URL](https://katherinerstancil.github.io/stancil-portfolio/)
+-[Repository URL](https://github.com/katherinerstancil/stancil-portfolio)
 
 # About me
 My name is Katherine (she/her), and I am 2nd-year MSPPM student with a concentration in public and non-profit finance. I am interested in fiscal policy and statistics, so this class will be beneficial to improving my visuals to represent data.
