@@ -1,7 +1,8 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!
 
-[Webpage URL](https://katherinerstancil.github.io/stancil-portfolio/) (`<br>`)
+[Webpage URL](https://katherinerstancil.github.io/stancil-portfolio/)
+
 [Repository URL](https://github.com/katherinerstancil/stancil-portfolio)
 
 # About me
