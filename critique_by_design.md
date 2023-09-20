@@ -18,7 +18,7 @@ I gave this visualization an 8 for truthfulness because it displays the data in 
 This visual seems to have a pretty neutral intuitiveness, so I gave it a 5. I would say that the visual itself is easy to use (although it may not be the most useful), but the placement of the textbox with a basic definition of what the farm share was made it a bit more difficult to understand at first (it required more effort).
 
 #### *Aesthetics: 9*
-Enter Text Explanation
+For aethetics, I completely ignored the fact that the visual was hard to understand, and I gave a lot of credit that the visualization itself was pretty. The colors were comforting, and the circles made the design unique.
 
 #### *Engagement: 2*
 Enter Text Explanation
