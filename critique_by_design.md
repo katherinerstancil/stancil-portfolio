@@ -21,7 +21,7 @@ This visual seems to have a pretty neutral intuitiveness, so I gave it a 5. I wo
 For aethetics, I completely ignored the fact that the visual was hard to understand, and I gave a lot of credit that the visualization itself was pretty. The colors were comforting, and the circles made the design unique.
 
 #### *Engagement: 2*
-Enter Text Explanation
+I feel like the nature of the data is relatively surface level for someone who does not know what the topic is about. However, I gave the visual some points for making me wonder why the farm share for dairy products seemed to be on average higher than other products, and why bread was so incredibly low compared to all other products.
 
 #### *Overall Observations and What I Would Do Differently*
 Overall, I think the author was trying to make a cool visualization, but it was just not appropriate for this type of visual. Many circles are so similar in size to each other that you cannot make any quick comparisons. You would have to scroll over every circle, and even then, you would have to rely on your memory of what you scrolled over to make comparisons. I think the only main takeaways that you can get from this visual is that butter was the largest farm share of retail price and bread was the smallest. My main redesign would be to choose a different visualization to represent the percentages. I liked how they did include some descriptions on the side because as someone who knows nothing about farm value share, I can get a good enough idea to interpret the graph and give a summary.
