@@ -44,6 +44,14 @@ This sketch was me just jotting down my initial ideas of what I wanted the overa
 #### Sketch 1
 ![Sketch #1](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%201.png)
 #### Sketch 2
+<div class='tableauPlaceholder' id='viz1695254128722' style='position: relative'><noscript><a href='#'><img alt='Farm Share of Retail Price&quot;The farm value share shows the farm value as a percentage of the total retail price. This chart provides comparison for a variety of food products.&quot;¹Disclaimer: percentages are based on the most recently reported data that the ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sk&#47;Sketch2_16952541194730&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Sketch2_16952541194730&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sk&#47;Sketch2_16952541194730&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1695254128722');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 ![Sketch #2](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%202.png)
 
 ### Design Feedback
