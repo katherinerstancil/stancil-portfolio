@@ -3,6 +3,15 @@
 
 As a policy student, I frequenly visit government sites and have seen some pretty confusing data visualizations. For this assignment, I decided to browse some government sites until I found a visualization that was difficult to understand or was not an appropriate visual for the data. In this case, the U.S. Department of Agriculture, created a bubble chart to show percentage comparisons for the farm share of retail price across food products. At first glance, I was unable to make direct comparisons because many bubbles were so close in size. If you hover over the bubble, you are able to see the percentage, but you would have to remember each bubble's data point to make any comparisons. Additionally, I found little to no correlation in bubble color. Some of the categories had the same colors while others within the same category had a different color. Therefore, I decided to redesign this visualization by using a different visual type and adjusted the color palette to make it more understandable for the audience.
 
+<div class='tableauPlaceholder' id='viz1695254260489' style='position: relative'><noscript><a href='https:&#47;&#47;www.ers.usda.gov&#47;data-products&#47;price-spreads-from-farm-to-consumer&#47;'><img alt='Farm share of retail price varies across food products ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fa&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fa&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1695254260489');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='800px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 ![Original Visual from The U.S. Department of Agriculture](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Original.png)
 “Farm Share of Retail Price Varies Across Food Products.” U.S. Department of Agriculture. Accessed September 20, 2023. https://public.tableau.com/views/Farmshareofretailpricevariesacrossfoodproducts/Farmshareofretailpricevariesacrossfoodproducts?%3AshowVizHome=no. 
 
@@ -52,7 +61,6 @@ This sketch was me just jotting down my initial ideas of what I wanted the overa
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-![Sketch #2](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%202.png)
 
 ### Design Feedback
 
