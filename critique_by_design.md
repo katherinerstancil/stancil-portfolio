@@ -2,16 +2,6 @@
 ### [Original Data Visualization](https://public.tableau.com/views/Farmshareofretailpricevariesacrossfoodproducts/Farmshareofretailpricevariesacrossfoodproducts?:embed=y&:display_count=n&:origin=viz_share_link)
 
 ![Original Visual from The U.S. Department of Agriculture](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Original.png)
-<div class='tableauPlaceholder' id='viz1695249328998' style='position: relative'><noscript><a href='https:&#47;&#47;www.ers.usda.gov&#47;data-products&#47;price-spreads-from-farm-to-consumer&#47;'><img alt='Farm share of retail price varies across food products ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fa&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fa&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;Farmshareofretailpricevariesacrossfoodproducts&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>         <script type='text/javascript'>
-  var divElement = document.getElementById('viz1695249328998');
-  var vizElement = divElement.getElementsByTagName('object')[0];
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='800px';vizElement.style.height='827px';} 
-  else if ( divElement.offsetWidth > 500 ) {vizElement.style.width='800px';vizElement.style.height='827px';}
-  else { vizElement.style.width='100%';vizElement.style.height='827px';}
-  var scriptElement = document.createElement('script');
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
 
 ### Data Visualization Critique
 #### *Usefulness: 3*
@@ -47,7 +37,10 @@ As mentioned above, I think it is essential to change the visualization type bec
 I would also change the colors scheme for the products. The color groupings seem to not have much correlation. The data source has categories for the products, but they do not correspond to the color choices in the visual.
 
 ### Redesign Sketches
-
+#### Sketch 1
+This sketch was me just jotting down my initial ideas of what I wanted the overall visual to look like. However, one think I did not like was that this sketch eliminated the name of the food product. I felt as if I tried to cram it in, it would look overwhelming and too much. Therefore, I decided to make a second sketch on Tableau to see if there was a way to incorporate both. When I told Tableau that I wanted the both the food category and product on the graph, it put the category on the top and separated it by a line. Then, the food product was on the x-axis. The only thing I had to change was the color palette to have the category have different shades of one color.
+![Sketch #1](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%201.png)
+![Sketch #2](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%202.png)
 
 ### Design Feedback
 
