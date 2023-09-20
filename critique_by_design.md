@@ -46,6 +46,7 @@ I would also change the colors scheme for the products. The color groupings seem
 
 ### Redesign Sketches
 
+
 ### Design Feedback
 
 ### Final Redesign
