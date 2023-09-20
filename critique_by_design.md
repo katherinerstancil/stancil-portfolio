@@ -37,9 +37,10 @@ As mentioned above, I think it is essential to change the visualization type bec
 I would also change the colors scheme for the products. The color groupings seem to not have much correlation. The data source has categories for the products, but they do not correspond to the color choices in the visual.
 
 ### Redesign Sketches
-#### Sketch 1
 This sketch was me just jotting down my initial ideas of what I wanted the overall visual to look like. However, one think I did not like was that this sketch eliminated the name of the food product. I felt as if I tried to cram it in, it would look overwhelming and too much. Therefore, I decided to make a second sketch on Tableau to see if there was a way to incorporate both. When I told Tableau that I wanted the both the food category and product on the graph, it put the category on the top and separated it by a line. Then, the food product was on the x-axis. The only thing I had to change was the color palette to have the category have different shades of one color.
+#### Sketch 1
 ![Sketch #1](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%201.png)
+#### Sketch 2
 ![Sketch #2](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Sketch%202.png)
 
 ### Design Feedback
