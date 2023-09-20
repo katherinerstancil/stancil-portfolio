@@ -12,7 +12,6 @@ As a policy student, I frequenly visit government sites and have seen some prett
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-![Original Visual from The U.S. Department of Agriculture](https://github.com/katherinerstancil/stancil-portfolio/blob/main/Original.png)
 “Farm Share of Retail Price Varies Across Food Products.” U.S. Department of Agriculture. Accessed September 20, 2023. https://public.tableau.com/views/Farmshareofretailpricevariesacrossfoodproducts/Farmshareofretailpricevariesacrossfoodproducts?%3AshowVizHome=no. 
 
 ### Data Visualization Critique
