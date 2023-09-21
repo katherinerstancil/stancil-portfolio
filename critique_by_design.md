@@ -63,6 +63,50 @@ This sketch was me just jotting down my initial ideas of what I wanted the overa
 
 ### Design Feedback
 
+### Feedback Respondents: My sketches received feedback from two individuals: a recent graduate who is working in insurance accounting (also conveniently my roommate) and a graphic designer in their mid 20’s (who is also conveniently a friend).
+
+#### *Question 1: Can you tell me what you think this is?*
+
+*My Roommate:* “A bar graph showing what percent of each category is taken up by a specific product.”
+
+*Graphic Designer:* “A graph representing the value percentage of food products to their retail price.”
+
+#### *Question 2: Can you describe to me what this is telling you?*
+
+*My Roommate:* “It is telling us what percent of the retail price the farm receives per product in each category.”
+
+*Graphic Designer:* “Certain farm products are priced higher in retail than their original for sale price.”
+
+#### *Question 3: Is there anything you find surprising or confusing?*
+
+*My Roommate:* “A little confusing to figure out what farm share % is.”
+
+*Graphic Designer:* “I’m surprised how overpriced fruits are.”
+
+#### *Question 4: Who do you think is the intended audience for this?*
+
+*My Roommate:* “Retailers who are selling goods for farmers or farmers themselves.”
+
+*Graphic Designer:* “The average grocery shopper.”
+
+#### *Question 5: Is there anything you would change or do differently?*
+
+*My Roommate:* “Provide clear definition of what the retail price/farm share relationship is. Is this assuming a third party is acting as the retailer?”
+
+*Graphic Designer:* “If possible, I’d add an option to filter by product type.”
+
+#### *Question 6: (In question 6, I showed a picture of the original visualization from the U.S. Department of Agriculture) Based on the image above, do you think my visualization was a good redesign?*
+
+*My Roommate:* “Yes I genuinely have no idea what the original is trying to get across.”
+
+*Graphic Designer:* “Absolutely.”
+
+#### *Question 7: What would you have done differently for the redesign? Something that I didn't think about?*
+
+*My Roommate:* “As I previously mentioned, I think if you add a little description on what the farm share % and retail price relationship is that will be beneficial.”
+
+*Graphic Designer:* “Choose just the ledger or the x-axis labels (I would probably do x-axis). Having both feels redundant.”
+
 ### Final Redesign
 <div class='tableauPlaceholder' id='viz1695254565536' style='position: relative'><noscript><a href='#'><img alt='Farm Share of Retail Price&quot;The farm value share shows the farm value as a percentage of the total retail price. This chart provides comparison for a variety of food products.&quot;¹Disclaimer: percentages are based on the most recently reported data that the ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RedesignFarmShareofRetailPrice&#47;FarmShareofRetailPrice&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RedesignFarmShareofRetailPrice&#47;FarmShareofRetailPrice' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RedesignFarmShareofRetailPrice&#47;FarmShareofRetailPrice&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
