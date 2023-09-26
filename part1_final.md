@@ -15,30 +15,29 @@ My goal of this project is to show that the average school PSSA proficiency rate
 4) Where are we now? 2022 is even worse!!! (This will fuel a sense of urgency to do something about this soon, also shows by subject)
 
 ### Initial sketches
-1) Average School Proficiency Rates 2019 -> 2021
+#### 1) Average School Proficiency Rates 2019 -> 2021
 ![Sketch 1](Visual1.png)
 
-2) 75% of school districts in 2021 had elss than half of their students meeting proficiency.
+#### 2) 75% of school districts in 2021 had elss than half of their students meeting proficiency.
 ![Sketch 2](Visual2.png)
+Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/an-american-flag-inside-the-classroom-8500417/
 
-3) Map of county school averages.
+#### 3) Map of county school averages.
 ![Sketch 3](Visual3.png)
+awmcphee. (2021). Pennsylvania county map. Wikimedia Commons. photograph. Retrieved September 26, 2023, from https://commons.wikimedia.org/wiki/File:Pennsylvania_county_map,_cb_500k.svg. 
 
-4) Where are we now? 2022 is even worse!!!
+#### 4) Where are we now? 2022 is even worse!!!
 ![Sketch 4](Visual4.png)
 
 ## The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+All of my statistics come from the Pennsylvania Department of Education. Each year, they publish the PSSA scores in an Excel file and break it down by district and by school. I used the school level data to further break down the data and because that was the data I used in my research paper last semester. I also might need to add an additional data source for the county averages, but I already have that compiled from my paper, and it also comes from the PA Department of Education.
+ 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|  Department of Education School PSSA Data    |  https://www.education.pa.gov/DataAndReporting/Assessments/Pages/PSSA-Results.aspx   |  PSSA Year by Year scores           |
+|  Department of Education School County Data    |  https://www.education.pa.gov/DataAndReporting/Enrollment/Pages/PublicSchEnrReports.aspx   |  Location Data           |
 
 ## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
