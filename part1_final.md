@@ -4,6 +4,8 @@
 
 ## The Data
 
-## Initial Sketches
+## Outline/Initial Sketches
+
+#### 
 
 ## Method and Medium
