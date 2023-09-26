@@ -7,8 +7,11 @@ My final project is to show the virtual learning consequences on academic perfor
 My goal of this project is to show that the average school PSSA proficiency rates declined and inform my audience where we are right now in getting students back on track. Unfortunately, Pennsylvania school proficiency rates declined even further in 2022, so this will make my call to action more appealing to my audience (who will be legislators, school board members, and parents). I hope to get the main points across without my audience needing to read my 30 page paper. 
 
 1) Average School Proficiency Rates 2019 -> 2021 (might not look so big, but hook in audience with what that 5 percentage point difference really means)
+  
 2) 75% of school districts in 2021 had less than half of their students meeting proficiency (this is important because that's a lot of students AND ties in to why that 5 percentage point difference is important to pay attention to)
+ 
 3) Map of county school averages (show where your county is with proficiency. Better or worse than average?)
+   
 4) Where are we now? 2022 is even worse!!! (This will fuel a sense of urgency to do something about this soon, also shows by subject)
 
 ### Initial sketches
