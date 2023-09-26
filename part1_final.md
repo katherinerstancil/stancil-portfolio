@@ -16,12 +16,16 @@ My goal of this project is to show that the average school PSSA proficiency rate
 
 ### Initial sketches
 1) Average School Proficiency Rates 2019 -> 2021
+[Sketch 1](Visual1.png)
 
 2) 75% of school districts in 2021 had elss than half of their students meeting proficiency.
+[Sketch 2](Visual2.png)
 
 3) Map of county school averages.
+[Sketch 3](Visual3.png)
 
 4) Where are we now? 2022 is even worse!!!
+[Sketch 4](Visual4.png)
 
 ## The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
