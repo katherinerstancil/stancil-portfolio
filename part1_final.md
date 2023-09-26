@@ -1,13 +1,15 @@
 # Final Project Part 1
 
-## Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+## Outline 
  
-Text here...
+My final project is to show the virtual learning consequences on academic performance for third grade students in Pennsylvania. Last semester, I did an econometrics research paper that showed that student learning was negatively impacted by the lockdown, and on average, the school PSSA proficiency rates across the state declined. This paper had no visualizations aside from regression tables, so I decided to use this opportunity to create visuals that supplement my findings. Additionally, the presentation will allow me to give a quick summary to people who are interested in my findings.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+My goal of this project is to show that the average school PSSA proficiency rates declined and inform my audience where we are right now in getting students back on track. Unfortunately, Pennsylvania school proficiency rates declined even further in 2022, so this will make my call to action more appealing to my audience (who will be legislators, school board members, and parents). I hope to get the main points across without my audience needing to read my 30 page paper. 
 
-Text here...
+1) Average School Proficiency Rates in 2019 -> 2021 (might not look so big, but hook in audience with what that 5 percentage point difference really means)
+2) 75% of school districts in 2021 had less than half of their students meeting proficiency (this is important because that's a lot of students AND ties in to why that 5 percentage point difference is important to pay attention to)
+3) Map of county school averages (show where your county is with proficiency. Better or worse than average?)
+4) Where are we now? 2022 is even worse!!! (This will fuel a sense of urgency to do something about this soon, also shows by subject)
 
 ### Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
