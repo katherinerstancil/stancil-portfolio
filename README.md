@@ -27,3 +27,5 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final Project
 Here it might be helpful to include a high-level description of your final project.
+
+#### [Final Project: Part 1](part1_final)
