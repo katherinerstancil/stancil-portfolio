@@ -14,6 +14,8 @@ My goal of this project is to show that the average school PSSA proficiency rate
    
 4) Where are we now? 2022 is even worse!!! (This will fuel a sense of urgency to do something about this soon, also shows by subject)
 
+5) Call to action! (parents: advocate for legislation and find enrichment materials for your student, school board: conduct academic needs assessment and implement programs that address the needs, legislators: mandate academic needs assessment and notable budget actions that address how you will meet those academic needs (like the Kansas law))
+
 ### Initial sketches
 #### 1) Average School Proficiency Rates 2019 -> 2021
 ![Sketch 1](Visual1.png)
@@ -31,7 +33,7 @@ awmcphee. (2021). Pennsylvania county map. Wikimedia Commons. photograph. Retrie
 
 ## The data
 
-All of my statistics come from the Pennsylvania Department of Education. Each year, they publish the PSSA scores in an Excel file and break it down by district and by school. I used the school level data to further break down the data and because that was the data I used in my research paper last semester. I also might need to add an additional data source for the county averages, but I already have that compiled from my paper, and it also comes from the PA Department of Education.
+All of my statistics come from the Pennsylvania Department of Education. Each year, they publish the PSSA scores in an Excel file and break it down by district and by school. I used the school level data to further break down the data (it was also the data I used in my research paper last semester). I also might need to add an additional data source for the county averages, but I already have that compiled from my paper (also from the PA Department of Education).
  
 
 | Name | URL | Description |
@@ -40,6 +42,5 @@ All of my statistics come from the Pennsylvania Department of Education. Each ye
 |  Department of Education School County Data    |  https://www.education.pa.gov/DataAndReporting/Enrollment/Pages/PublicSchEnrReports.aspx   |  Location Data           |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project.
 I plan on using Shorthand for the final project. I decided on this option for two reasons: 1, I am unfamiliar with the site and think this is a good opportunity to learn something new and 2, the example projects from class looked very nice, and it looks like there is a lot of cool things to play around with. I will also use Tableau to create some visuals (unless Shorthand does this too, but I have never used it before, so I don't know).
 
