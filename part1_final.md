@@ -40,7 +40,6 @@ All of my statistics come from the Pennsylvania Department of Education. Each ye
 |  Department of Education School County Data    |  https://www.education.pa.gov/DataAndReporting/Enrollment/Pages/PublicSchEnrReports.aspx   |  Location Data           |
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+> In a few sentences, you should document how you plan on completing your final project.
+I plan on using Shorthand for the final project. I decided on this option for two reasons: 1, I am unfamiliar with the site and think this is a good opportunity to learn something new and 2, the example projects from class looked very nice, and it looks like there is a lot of cool things to play around with. I will also use Tableau to create some visuals (unless Shorthand does this too, but I have never used it before, so I don't know).
 
