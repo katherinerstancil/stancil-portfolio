@@ -24,7 +24,7 @@ My goal of this project is to show that the average school PSSA proficiency rate
 ![Sketch 2](Visual2.png)
 Photo by RDNE Stock project from Pexels: https://www.pexels.com/photo/an-american-flag-inside-the-classroom-8500417/
 
-#### 3) Map of county school averages.
+#### 3) Map of county school averages in 2021.
 ![Sketch 3](Visual3.png)
 awmcphee. (2021). Pennsylvania county map. Wikimedia Commons. photograph. Retrieved September 26, 2023, from https://commons.wikimedia.org/wiki/File:Pennsylvania_county_map,_cb_500k.svg. 
 
@@ -34,7 +34,8 @@ awmcphee. (2021). Pennsylvania county map. Wikimedia Commons. photograph. Retrie
 ## The data
 
 All of my statistics come from the Pennsylvania Department of Education. Each year, they publish the PSSA scores in an Excel file and break it down by district and by school. I used the school level data to further break down the data (it was also the data I used in my research paper last semester). I also might need to add an additional data source for the county averages, but I already have that compiled from my paper (also from the PA Department of Education).
- 
+
+For this project, I am mostly using the mean PSSA scores for schools. Therefore, the only data cleaning I would need to do is compiling the necessary data into one spreadsheet. My paper did not look at the data on a county level, so I will have to do that for the map portion of the project. Otherwise, the data is all available and almost ready to use. Below are the links to the Pennsylvania Department of Education site for the PSSA data and the county for each school.
 
 | Name | URL | Description |
 |------|-----|-------------|
