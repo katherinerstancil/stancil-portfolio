@@ -11,7 +11,7 @@ Since my target audience is for parents, legislators, and school board members, 
 1. Brooke (early 20s - undergraduate political science major)
 2. Tamara (early 30s - a mother, family friend)
 3. Anna (mid-40s, a mother, my aunt)
-4. Adrian (early 50s, my uncle)
+4. Adrian (early 50s, a father, my uncle)
 
 ## Interview script 
 
