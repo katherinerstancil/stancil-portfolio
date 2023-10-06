@@ -27,7 +27,7 @@ Since my target audience is for parents, legislators, and school board members, 
 Text here!
 
 | Questions               | Interview Brooke | Interview Tamara | Interview 3 | Interview 4 |
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|--------------------------------|-------------|-------------|-------------|
 | What is the main takeaway? | "Covid 19 was detrimental to children’s education"           | "My main takeaway is how PSSA is affected after COVID-19 due to virtual learning and virtual classes"            |             |             |
 | What happened to PSSA scores after virtual learning?                        |  "They dropped by over 5%"                              | "The PSSA scores on math were not proficient in almost half of the schools in PA, and 30% of schools did not have the majority of their students meeting proficiency on the ELA PSSAs"            |             |             |
 | What do you think about the overall flow of the site?                        | "The flow was rather nice and the information flowed nicely in this format"                               |"I think it has good flow. It introduces the issue, it gives the facts and statistics and it comes with suggestions for a solutions at the end"             |             |
