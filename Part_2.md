@@ -4,9 +4,8 @@
 # User research
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Since my target audience is for parents, legislators, and school board members, I will try to keep my target audience towards individuals who are either parents or individuals with a policy background. Therefore, I chose the following individuals:
+Since my target audience is for parents, legislators, and school board members, I will try to keep my target audience towards individuals who are either parents or individuals with a policy background. The following individuals were interviewed:
 
 1. Brooke (early 20s - undergraduate political science major)
 2. Tamara (early 30s - a mother, family friend)
@@ -24,8 +23,6 @@ Since my target audience is for parents, legislators, and school board members, 
 |  Visualization 4 Critique    |   1. Is the bar chart clear? 2. Are the labels distracting? (the gray bar will be removed, still collecting actual data to build real visual) 3. Do you think the red and yellow works well with the color scheme of the rest of the document? If not, what would you recommend I change it to?               |
 
 ## Interview findings
-
-Text here!
 
 | Questions               | Interview Brooke | Interview Tamara | Interview Anna | Interview Adrian |
 |-------------------------|--------------------------------|-------------|-------------|-------------|
@@ -54,25 +51,16 @@ Text here!
 | Any additional recommendations?                        |  "nope"                              |"No, good job!"             |   "Distinguish the two quotes about math and ELA PSSAs a little more"          | "It looks good! Just go in depth about some solutions."            |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+# Identified changes for Part III 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Statistics section. | The statistics section received feedback on being too close together and hard to pull out relevant information. Moving forward, I think I’m going to try to separate them more with space, make the sentences less wordy, and play around with other design techniques like color and pictures to separate them better.  |
+| Build out 2022 section.                                         |   I got a lot of feedback to change the colors of the last data visualization. I might change the visual all together. I wanted to get feedback before I built anything because I wasn’t in love with it in the first place. However, the feedback was based more on color, not on the chart type. I will brainstorm how else to display the data.                                                                              |
+| Any current initiatives in PA? More solutions?                                         | Some interviewees were interested to see if Pennsylvania had any current initiatives. I am unaware of any at the moment, but I will research some as it seemed like it was a trend.                                                                                |
+| Location of map.                                         | I asked my interviewees their opinion about where I should put the map. The majority said that I should keep it located next to the text rather than a separate page.                                                                                |
+| Label shades.            |  An easy fix is putting the shade ranges in the legend. It was only mentioned once in the interview process, but I think it can help with readability.                                                                               |
+ 
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Overall, I have some additional work to do like finalizing what visual I want to use for the 2022 data. I received positive feedback with a few revisions that will help with readability and clarity.
 
