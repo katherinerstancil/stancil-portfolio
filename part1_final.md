@@ -1,4 +1,4 @@
-|  [Home](README) |  [Visualizing Government Debt](visualing-gov-debt) |  [Critique by Design](critique_by_design) |  [Final Part 1](part1_final) |  [Final Part 2](Part_2) |  [Final Part 3](part_3) |
+|  [Home](https://katherinerstancil.github.io/stancil-portfolio/) |  [Visualizing Government Debt](visualing-gov-debt) |  [Critique by Design](critique_by_design) |  [Final Part 1](part1_final) |  [Final Part 2](Part_2) |  [Final Part 3](part_3) |
 # Final Project Part 1
 
 ## Outline 
