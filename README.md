@@ -26,3 +26,5 @@ My final project is to show the virtual learning consequences on academic perfor
 #### [Final Project: Part 1](part1_final)
 
 #### [Final Project: Part 2](Part_2)
+
+#### [Final Project: Part 3](Part_3)
