@@ -21,7 +21,7 @@ My name is Katherine (she/her), and I am 2nd-year MSPPM student with a concentra
 ## [Critique by Design](critique_by_design)  
 
 ## Final Project
-My final project is to show the virtual learning consequences on academic performance for third grade students in Pennsylvania. Last semester, I did an econometrics research paper that showed that student learning was negatively impacted by the lockdown, and on average, the school PSSA proficiency rates across the state declined. This paper had no visualizations aside from regression tables, so I decided to use this opportunity to create visuals that supplement my findings. Additionally, the presentation will allow me to give a quick summary to people who are interested in my findings.
+My final project is to show the virtual learning consequences on academic performance for third grade students in Pennsylvania. Last semester, I did an econometrics research paper that showed that student learning was negatively impacted by the lockdown, and on average, the school PSSA proficiency rates across the state declined. This paper had no visualizations aside from regression tables, so I decided to use this opportunity to create visuals that supplement my findings.
 
 #### [Final Project: Part 1](part1_final)
 
