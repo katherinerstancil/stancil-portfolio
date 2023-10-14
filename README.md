@@ -16,17 +16,12 @@ My name is Katherine (she/her), and I am 2nd-year MSPPM student with a concentra
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+## [Visualizing Government Debt](visualing-gov-debt)
 
-## Assignment: [Visualizing Government Debt](visualing-gov-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3 & 4: [Critique by Design](critique_by_design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## [Critique by Design](critique_by_design)  
 
 ## Final Project
-Here it might be helpful to include a high-level description of your final project.
+My final project is to show the virtual learning consequences on academic performance for third grade students in Pennsylvania. Last semester, I did an econometrics research paper that showed that student learning was negatively impacted by the lockdown, and on average, the school PSSA proficiency rates across the state declined. This paper had no visualizations aside from regression tables, so I decided to use this opportunity to create visuals that supplement my findings. Additionally, the presentation will allow me to give a quick summary to people who are interested in my findings.
 
 #### [Final Project: Part 1](part1_final)
 
