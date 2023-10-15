@@ -34,9 +34,7 @@ Text here!
 Text here!
 
 ### References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+All references like information, photos, and data sources are correctly cited in shorthand. Please reference the [link](https://carnegiemellon.shorthandstories.com/d1afb295-ebe8-41a2-a40a-b165ea389af4/index.html).
 
 ## Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
