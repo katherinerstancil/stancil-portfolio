@@ -1,30 +1,35 @@
 |  [Home](https://katherinerstancil.github.io/stancil-portfolio/) |  [Visualizing Government Debt](visualing-gov-debt) |  [Critique by Design](critique_by_design) |  [Final Part 1](part1_final) |  [Final Part 2](Part_2) |  [Final Part 3](part_3) |
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# The Final Data Story
+[Link to Shorthand](https://carnegiemellon.shorthandstories.com/d1afb295-ebe8-41a2-a40a-b165ea389af4/index.html)
 
-Text here!
+## Changes made since Part II
+After I completed the first draft of the shorthand page and receiving feedback, I made the following adjustments:
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+#### Adjusted the Statistics Section
+Based on the feedback I received when interviewing a few people, it was mentioned that the two callout statistics were meshed together. Although they tie together, they are separate and having the two too close together made it confusing to some of my readers. Therefore, I put some additional space in between the two, added a divider, and inserted a photo in the second statistic. This really made the statistics a little bit more separate, but still related (by keeping them in the same section).
 
-Text here!
+#### Build Out the 2022 Section
+At first, I was not in love with the visual; however, after receiving feedback, I realized that the combined bar and line graph fit the data nicely and was easy to interpret. I used Flourish to create the visual (in part 2, I still only had my sketch). I also changed the colors from the intial sketch because they did not match my theme, and my interviews revealed that they did not like them either. Overall, I am satisfied with how it turned out. If I could do one thing extra, I would include data labels for the bars, but not the line. I was unable to figure out how to just have data labels for the bars, so I felt it was best to leave them all out. With them in, it the visual was way too crowded. Finally, I actually wrote out some information for the 2022 section. There was little to no information at the time of the interviews, and one of my responses requested some information about what Pennsylvania is doing now to help with learning loss. The ARP ESSER funding was something that PA did in 2021, but it was hard to tell if there has been any direct benefit from it.
 
-## The audience
+#### Decision Made About the Location of the Map
+Prior to conducting interviews, I was indecisive about where to put the map of county averages. Initially I wanted to make the map a big page itself, but it was not really user friendly, and it did not give me the flexibility to have an explanation right next to the map. So, I asked for feedback in my interviews about where to put the map, and the majority seemed to like it next to the text.
+
+### The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
 Text here!
 
-## Final design decisions
+### Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
 Text here!
 
-## References
+### References
 > You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 Text here!
 
-# Final thoughts
+## Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!
