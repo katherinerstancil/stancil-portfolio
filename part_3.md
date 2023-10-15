@@ -24,12 +24,12 @@ I also included an additional link to Khan Academy for parents to find enrichmen
 My orginial draft was pretty incomplete when I sent it over to my interviewers, so I generally just did some cleanup. I added more text, rearranged some of the pages, and included a few more design elements (like pictures and played around with layouts).
 
 ### The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience. *Talk about the presentation too*
 
 Text here!
 
 ### Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. *you can probably include some information about design up above*
 
 Text here!
 
